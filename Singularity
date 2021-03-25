@@ -27,3 +27,4 @@ From: python:3.8
   
 %post
   pip install --no-cache-dir MACS2
+  
